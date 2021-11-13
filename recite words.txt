@@ -286,44 +286,39 @@ conformity		n. 遵守，依照；随大流，循规蹈矩；
 trim			v. 修剪，修整；削减，减少；修饰，
 
 
+persecute		迫害，残害
+prosecute		v. 起诉，控告，检举；（
+advent			n. 出现，到来，问世；
 
+transcend  		v. 超出，超越；胜过
+ascend			v. 攀登，登上；上升	
+descend			v. 下来，下降；下倾，下斜；降临
+radical			adj. 根本的，彻底的；激进的，	
+racial			adj. 种族关系的，种族之间的
+exquisite		adj. 精致的，精美的；剧烈的
+requisite		adj. 必备的，必不可少的
 
-persecute
-prosecute
-advent
+consensus		n. 一致看法，共识	
+consent			n. 许可，允许；同意，赞同
 
+catastrophe		n. 灾难，灾祸；麻烦
 
-transcend  
-ascend
-descend
-
-radical
-racial
-
-exquisite
-requisite
-
-consensus
-consent
-
-catastrophe
-indulge
-offset
-traitor
-shaft
-monotonous
-gradual
-brow
-illuminate
-auditorium
-premium
-weird	adj. 奇怪的，不寻常的；怪异的，超自然的
-witch
-intricate
-virgin
-decay
-approval
-propogate
+offset			v. 补偿，抵销；衬托出
+traitor			n. 叛徒；卖国贼；
+shaft			n. 竖井；通风井；
+monotonous		adj. 单调乏味的，毫无变化的	
+gradual			adj. 逐渐的，渐进的；
+brow			n. 眉毛；坡顶
+illuminate		v. 照射，照亮；阐明，解释
+auditorium		n. 观众席；礼堂，会堂
+premium			n. 保险费
+weird			adj. 奇怪的，不寻常的；怪异的，超自然的
+witch			n. 巫婆，巫师
+intricate		adj. 错综复杂的；难理解的
+virgin			n. 处女，童男
+decay			v. （建筑、地方等）破败，衰落
+approval		n. 称许，赞成；批准，许可
+propagate		v. 散播，宣传（观点、信仰等）；传播		
 cunning
 boldness
 contrive
