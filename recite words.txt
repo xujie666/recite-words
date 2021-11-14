@@ -6,7 +6,7 @@ dam	筑坝；阻止，抑制
 vacant	adj. 空的；空缺的；空虚的
 knot	结，绞成乱团的头发
 predecessor	n. 前任，前辈；（被取代的）原有事物，前身
-penalty	处罚，刑罚
+penalty			处罚，刑罚
 arch	n. 拱门；拱顶；足弓；拱形物
 commonwealth	n. 国家，独立的政治共同体
 sob		v. 啜泣，抽噎；哭诉，呜咽地说
@@ -15,15 +15,15 @@ abandon	v. 遗弃；离开；放弃；
 crab	n. 螃蟹；蟹肉；
 fascinate	迷住 使着迷 使神魂颠倒
 dedicate	v. 致力于，献身于；把献给；
-throat	n. 喉咙，咽喉；喉部，颈前部；
-abound v. 大量存在，有许多；富于
-astonish v. 使吃惊，使惊讶
-lucrative	adj. 获利多的，赚大钱的
-inn	小旅馆，小酒馆
-stocking	长筒袜
-mobilize	v. 动员，组织；调动，
-culprit	犯人，罪犯；
-stationary	不动的，静止的；不变的
+throat			n. 喉咙，咽喉；喉部，颈前部；
+abound 				v. 大量存在，有许多；富于
+astonish 		v. 使吃惊，使惊讶
+lucrative		adj. 获利多的，赚大钱的
+inn				小旅馆，小酒馆
+stocking		长筒袜
+mobilize		v. 动员，组织；调动，
+culprit			犯人，罪犯；
+stationary		不动的，静止的；不变的
 nourish	v. 养育，滋养；培养
 obsolete	adj. 废弃的；老式的
 petrol		汽油；深蓝绿色
@@ -47,16 +47,13 @@ percentage		n. 百分比，百分率；部分，比例
 disapproval		n. 不赞同，反对
 charging		v. 要价；收费；指责
 argument	n. 论证；论据；争吵；
-irrationally	adv. 无理性地，不合理地
+
 promote			v. 促进，提倡；升职
 urban		adj. 城市的；住在都市的
 ironic		adj. 反语的，讽刺的
-deprive		v. 剥夺，使丧失；
+
 indispensable	adj. 不可缺少的；绝对必要的；责无旁贷的
 stabilize	v. （使）稳定
-
-
-
 
 merchandise n. 商品，货品；相关商品
 discern		vt. 觉察出；识别；了解；
@@ -384,3 +381,392 @@ herd			n. 兽群，畜群；人群，民众
 
 
 hierarchy
+stroke	中风 行程 笔画
+ascertain	vt. 确定；查明；探知
+offensive	adj. 无礼的，冒犯的；令人不快（讨厌）的；
+pillow	n. 枕头；蕾丝枕头
+queer	adj. 奇怪的，异常的；男同性恋的
+bandage	n. 绷带
+integrity	n. 正直，完整；（电子数据的）集成度
+raid	n. 袭击；突袭；搜捕；抢劫
+governor	n. 州长；<英>主管，机构负责人；老板；调速器，调节器
+legitimate	adj. 正当的，合理的；合法的，依法的；
+pregnant	adj. 怀孕的，妊娠的；意味深长的
+minority	n. 少数民族；少数派；未成年
+being	n. 生物；存在；本质，本性v. 因为，由于（用于非限定分句）
+disclose	v. 透露，公开；揭开，使显露
+thrive	v. 茁壮成长，兴旺，繁荣；
+glide	vi. 滑翔；滑行；悄悄地走；消逝
+treason	n. [法] 叛国罪；不忠
+revolt	n. （对权威、规定、法律的）反抗，违抗；叛乱，造反
+algorithm		n. 算法，运算法则
+slaughter	n. 屠宰；（对人的）屠杀
+hesitate	v. 犹豫，不愿意
+dam	筑坝；阻止，抑制
+vacant	adj. 空的；空缺的；空虚的
+knot	结，绞成乱团的头发
+predecessor	n. 前任，前辈；（被取代的）原有事物，前身
+penalty	处罚，刑罚
+arch	n. 拱门；拱顶；足弓；拱形物
+commonwealth	n. 国家，独立的政治共同体
+
+dedicate	v. 致力于，献身于；把献给；
+throat	n. 喉咙，咽喉；喉部，颈前部；
+abound v. 大量存在，有许多；富于
+astonish v. 使吃惊，使惊讶
+lucrative	adj. 获利多的，赚大钱的
+inn	小旅馆，小酒馆
+stocking	长筒袜
+mobilize	v. 动员，组织；调动，
+culprit	犯人，罪犯；
+stationary	不动的，静止的；不变的
+nourish	v. 养育，滋养；培养
+obsolete	adj. 废弃的；老式的
+petrol		汽油；深蓝绿色
+delegate	v. 授权，把……委托给
+scale new height 勇攀高峰
+seek out	找出；搜出；想获得
+eliminate	v. 剔除，根除；对……不予考虑，
+
+
+
+evolution	n. 进化（论）；演变，发展
+predator	n. 捕食性动物； 掠夺者，掠
+morally		adv. 道德上；有道德地；
+immense		adj. 极大的，巨大的；非常好
+
+nutrition	n. 营养，滋养；营养学
+justifiable 	adj. 可辩解的,有道理的,可证明为正当的
+defensible		adj. 可防御的；可辩护的
+subsistence		. 勉强生存，维持生计；赖以活命的食物
+percentage		n. 百分比，百分率；部分，比例
+disapproval		n. 不赞同，反对
+charging		v. 要价；收费；指责
+argument	n. 论证；论据；争吵；
+irrationally	adv. 无理性地，不合理地
+promote			v. 促进，提倡；升职
+urban		adj. 城市的；住在都市的
+ironic		adj. 反语的，讽刺的
+deprive		v. 剥夺，使丧失；
+indispensable	adj. 不可缺少的；绝对必要的；责无旁贷的
+stabilize	v. （使）稳定
+
+
+
+
+merchandise n. 商品，货品；相关商品
+discern		vt. 觉察出；识别；了解；
+maintenance	维修 保养
+fatigue		n. 疲乏，厌倦；
+reliance	n. 依靠，信任	
+whip		n. 鞭子，皮鞭；党鞭
+scrap		碎片，小块；
+inertia		n. 缺乏活力，惰性
+cement		n. 水泥；胶合剂，接合剂
+bay			港湾
+mourn		v. 悼念，哀悼；对
+prescription	n. 处方，药方；处方药；开处方，
+habitat		n. （动植物的）生活环境，栖息地
+
+ascend		v. 攀登，登上；上升，升高，
+pharmacy	n. 药店；（医院的）药房，
+feat		n. 功绩，壮举；武艺，技艺
+entertain	招待 娱乐
+tragic		adj. 悲惨的，悲痛的，
+expertise	n. 专长，
+shallow		adj. 浅的，不深的；肤浅的，
+envy		v. 羡慕，忌妒；向往，
+legislation	n. 法规，法律；
+sew			vt. 缝合，缝上；缝纫
+notion		n. 概念，想法；缝纫用品；
+dam			n. 堤，坝；母兽，母畜
+mobilize	v. 动员，组织；调动，调用；
+hesitate	v. 犹豫，不愿意
+
+
+
+amid		在……过程中	
+relish		vt. 欣赏；品尝	
+thermometer n. 温度计；体温计
+corrupt		adj. 腐败的，贪污的；不道德的，
+essay		n. （学生为某门课程所写的）短文，论说文； 	
+conscious	adj. 意识到的；神志清醒的
+instantaneous	adj. 瞬间发生的，瞬间完成的
+racial		adj. 种族关系的，种族之间的；
+inventory	n. 存货，存货清单；详细目录；财产清册	
+Mercury		n. 水星；墨丘利
+puppet		n. 木偶；傀儡；受他人操纵的人
+glow		v. 发热，发光，发红
+unfold		v. 透露；展现（思想，信息）
+carve		v. . 雕刻，刻（硬材料），切割
+fracture	n. 破裂，断裂；骨折
+hay			n. （用作饲料的）干草；
+quest		n. 追求；寻找；任务
+negotiate	v. （尤指在商业或政治上）谈判
+furious		adj. 狂怒的，暴怒的；狂暴的
+verbal		adj. 口头的，非书面的；用言辞的，
+tropical	adj. 热带的，热带地区的；
+mute		adj. 哑的，沉默的；（活动）无声的
+rag			n. 抹布，破布； 破衣烂衫
+bunch		n. 束，串，扎；一伙，一群
+intimate	adj. 亲密的；（指地方或环境）亲密融洽的
+
+
+shabby		adj. 破旧的，破烂的；
+screw		n. 螺丝（钉）；螺杆，螺丝杆					
+nevertheless	adv. 然而，不过
+saint		n.圣徒, 圣人般的人
+premier		adj. 首要的	
+scandal		n. 丑行，丑闻
+thermal		adj. 热的，热量的；
+coward		n. 胆小鬼，懦夫
+magnitude	n. 巨大，重要性；
+perplex		v. 使困惑，使茫然；使复杂化
+owl			n. 鸮，猫头鹰
+conservative  adj. 保守的；保守派的，
+elbow		v. 用肘推, 挤进, 跻身进来, 讨价还价
+temperament	n. 性情；气质
+slight		adj. 轻微的，少量的；
+heave		v. 用力举起，使劲拖；
+sacred		adj. 神圣的，极其神圣的，不可侵犯的
+contempt	n. 轻视，轻蔑，蔑视
+velocity	n. 速度，速率；高速
+harassment	n. 骚扰，扰乱；烦恼，烦乱
+wardrobe	n. 衣柜，衣橱，藏衣室；全部衣物
+impair		vt. 损害，损伤；削弱；减少
+coalition	n. 结合体，同盟；结合，联合
+linguistic	adj. 语言的，语言学的
+lawn 		n. 草坪，草地；上等细棉布，
+crane		n. 鹤；起重机，吊车；机动升降台架
+reconcile	v. 调和，使协调一致；
+ventilate	v. 使通风，使通气；
+portrait	肖像，照片，雕像；描绘
+simulate	模拟，模仿
+stimulate	v. 促进，激发（某事物）；激发	
+mayor		n. 市长
+sketch		n.概述，概要	
+bewilder	v. （使）迷惑，（使）糊涂
+wink		v. 眨眼，眨眼示意；闪烁；明灭
+inevitable	adj. 必然发生的；不可避免的
+harness		v. （尤指为产生能量而）控制并利用（自然资源）；治理；利用
+napkin		n. 餐巾；餐巾纸
+swamp		n. 沼泽，沼地
+surrender	v. 投降；放弃
+nursery		n. 托儿所，幼儿园；儿童房
+dinosaur	n. 恐龙；守旧落伍的人
+comparative	比较级 比较的，相比的；相对的
+mud			n. 泥，淤泥，泥浆
+saddle		n. 鞍，马鞍
+ample		adj. 充足的，充裕的；丰满的
+allowance	津贴，补助；限额，定量
+rotate		v. （使）旋转，（使）转动；
+resilient 	有弹力的；能复原的；可迅速恢复
+quota		n. 定额，限额；
+aesthetic	adj. 审美的，美学的；
+chancellor	n财政大臣  总理；
+journal		n. 杂志，期刊，报纸
+susceptible	易受影响的 敏感的 易感
+resemble	v. 像，与……相似
+destiny		n. 命运，定数；天意，命运之神
+merchandise	n. 商品，货品；相关商品，指定商品
+desperate	绝望，无望
+compatible	adj. 兼容的；可共存的；可和睦相处的；
+
+
+
+
+
+
+
+
+
+
+
+11.2
+stance					n. 立场, （尤指体育运动中的）站立姿势
+appendix				n. 附录；阑尾；
+detach					v. 离开（地方）；脱离（组织）分离，分开
+lounge					休息室；（机场等的）等候室；起居室
+lavatory				n. 厕所，盥洗室
+chef					n. 厨师长，厨师
+flare
+pendulum				n. 摆，钟摆；摇摆不定	
+hunt					搜寻，寻找；追猎；猎取
+stalk					阔步走，大踏步地走；潜近（猎物或人）；（非法）跟踪
+lame					adj. （理由，借口）站不住脚的	
+aisle					n. 过道，通道
+memorandum				n. 备忘录
+scarf					n. 围巾；头巾
+masterpiece				n. 杰作，名著
+Celsius					n. 【医】摄氏
+weed					n. 杂草，野草
+tub						n. 木盆，澡盆
+eloquent				有说服力的
+uphold					v. 支持；支撑
+spicy					辛辣的；香的
+gracious				adj. 慈祥的；有礼貌的；
+greedy					adj. 贪婪的；贪吃的；渴望的
+intimidate				vt. 恐吓，威胁；胁迫
+conversely				adv. 相反
+harm					n.伤害, 损害
+bald					adj.秃顶的；光秃的；
+legacy					n. 遗产；遗赠财物；
+sanction				v. 同意，许可；惩罚，
+helmet					n. 头盔; 防护帽
+swell					肿胀，膨胀；涌起，充满
+exile					n. 流放；放逐；流亡
+astronomy				n. 天文学
+designate				指定，选派
+coarse					adj. 粗糙的，粗劣的；	
+seal					v. 密封, 封住; 盖印; 封锁
+plea					n. 请求，恳求；辩护；
+
+
+
+
+
+
+11.4
+
+reservation		n. 保留，保护；（房间，座位等的）预订
+pause			n. 暂停，停顿；暂停键；延长记号	
+spark			n. 导火线，诱因；火花，火星；电火花
+opposition		n. （强烈的） 反对，反抗；对手，竞争者
+polar			adj. 极地的，来自极地的
+integral		adj. 积分的；完整的，整体的
+
+irrigation		n. 灌溉；冲洗
+memorable		adj. 显著的，难忘的；值得纪念的
+violation		n. 违背，违反；侵权行为，（对人权的）侵犯； 
+ideological		adj. 思想体系的，意识形态的
+
+
+furnish			v. 为 配备家具；提供，供应
+misled			v. 把……带错方向
+intervene		v. 干预，干涉
+vary			v. （使）不同，（使）呈现差异；
+bureaucracy		n. 官僚制度，官僚机构，官僚作风
+recruiter		n. 招聘人员，征兵人员	
+pattern			n. 模式，方式；图案，
+drift			v. 飘移，漂流；流浪，漂泊；缓慢移动；
+endorsement		n. 背书，票据签字；
+dare			v. 激，激将；敢于，胆敢
+consultancy		n. 咨询公司；顾问工作
+deposit			v. 放下，放置；储蓄；存放
+undermine		v. 逐渐削弱（损害）；故意破坏（某人）的形象
+resign			v. 辞（职），放弃（工作或职位）；
+respective		adj. 分别的，各自的
+consent			n. 许可，允许；同意，赞同；
+reunion			n. （有组织的）聚会，团聚；重逢，团圆；
+interpretation	n. 解释，理解；表演
+concrete		n. 混凝土
+weave			编，织；（用……）编成									
+conformity		n. 遵守，依照；随大流，循规蹈矩；	
+trim			v. 修剪，修整；削减，减少；修饰，
+
+
+
+
+persecute
+prosecute
+advent
+
+
+transcend  
+ascend
+descend
+
+radical
+racial
+
+exquisite
+requisite
+
+consensus
+consent
+
+catastrophe
+indulge
+offset
+traitor
+shaft
+monotonous
+gradual
+brow
+illuminate
+auditorium
+premium
+weird	adj. 奇怪的，不寻常的；怪异的，超自然的
+witch
+intricate
+virgin
+decay
+approval
+propogate
+cunning
+boldness
+contrive
+manuscript
+admp
+seek 
+publicity
+royalty
+damp
+formidable
+refrain
+feeble
+evaporate 
+consequence
+astrobiology
+
+
+
+superstition
+tremble
+statue
+blush
+damp
+humble
+culminate
+vanity
+antenna 
+dread
+sarcastic
+brandy
+variation
+transmit
+surpass
+breach
+abide
+flatter
+convey
+ponder
+junk
+stipulate
+hammer
+razor
+provision
+overwhelm
+faithful
+huddle
+slum
+anxiety
+scorn
+mediate
+poultry
+humble
+simultaneous
+enthusiastic
+dazzle
+numerical
+parallel
+underestimate
+deviate
+correlate
+glory
+plausible
+cigar
+suspicion
+clergy
+deceit
+herd
