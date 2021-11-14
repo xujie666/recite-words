@@ -10,14 +10,8 @@ governor	n. 州长；<英>主管，机构负责人；老板；调速器，调节
 legitimate	adj. 正当的，合理的；合法的，依法的；
 pregnant	adj. 怀孕的，妊娠的；意味深长的
 minority	n. 少数民族；少数派；未成年
-being	n. 生物；存在；本质，本性v. 因为，由于（用于非限定分句）
-disclose	v. 透露，公开；揭开，使显露
-thrive	v. 茁壮成长，兴旺，繁荣；
-glide	vi. 滑翔；滑行；悄悄地走；消逝
-treason	n. [法] 叛国罪；不忠
 revolt	n. （对权威、规定、法律的）反抗，违抗；叛乱，造反
-algorithm		n. 算法，运算法则
-slaughter	n. 屠宰；（对人的）屠杀
+
 hesitate	v. 犹豫，不愿意
 dam	筑坝；阻止，抑制
 vacant	adj. 空的；空缺的；空虚的
@@ -378,3 +372,8 @@ suspicion		n. 不好的预感，猜想；
 clergy			n. 神职人员；牧师；僧侣
 deceit			n. 欺骗，诡计
 herd			n. 兽群，畜群；人群，民众
+
+11.14
+
+
+hierarchy
