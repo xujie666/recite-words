@@ -1,16 +1,5 @@
-stroke	中风 行程 笔画
-ascertain	vt. 确定；查明；探知
-offensive	adj. 无礼的，冒犯的；令人不快（讨厌）的；
-pillow	n. 枕头；蕾丝枕头
-queer	adj. 奇怪的，异常的；男同性恋的
-bandage	n. 绷带
-integrity	n. 正直，完整；（电子数据的）集成度
-raid	n. 袭击；突袭；搜捕；抢劫
-governor	n. 州长；<英>主管，机构负责人；老板；调速器，调节器
-legitimate	adj. 正当的，合理的；合法的，依法的；
-pregnant	adj. 怀孕的，妊娠的；意味深长的
 minority	n. 少数民族；少数派；未成年
-revolt	n. （对权威、规定、法律的）反抗，违抗；叛乱，造反
+
 
 hesitate	v. 犹豫，不愿意
 dam	筑坝；阻止，抑制
@@ -145,13 +134,9 @@ slight		adj. 轻微的，少量的；
 heave		v. 用力举起，使劲拖；
 sacred		adj. 神圣的，极其神圣的，不可侵犯的
 contempt	n. 轻视，轻蔑，蔑视
-velocity	n. 速度，速率；高速
-harassment	n. 骚扰，扰乱；烦恼，烦乱
-wardrobe	n. 衣柜，衣橱，藏衣室；全部衣物
-impair		vt. 损害，损伤；削弱；减少
+
 coalition	n. 结合体，同盟；结合，联合
 linguistic	adj. 语言的，语言学的
-lawn 		n. 草坪，草地；上等细棉布，
 crane		n. 鹤；起重机，吊车；机动升降台架
 reconcile	v. 调和，使协调一致；
 ventilate	v. 使通风，使通气；
@@ -165,17 +150,14 @@ wink		v. 眨眼，眨眼示意；闪烁；明灭
 inevitable	adj. 必然发生的；不可避免的
 harness		v. （尤指为产生能量而）控制并利用（自然资源）；治理；利用
 napkin		n. 餐巾；餐巾纸
-swamp		n. 沼泽，沼地
-surrender	v. 投降；放弃
+
 nursery		n. 托儿所，幼儿园；儿童房
-dinosaur	n. 恐龙；守旧落伍的人
 comparative	比较级 比较的，相比的；相对的
 mud			n. 泥，淤泥，泥浆
 saddle		n. 鞍，马鞍
 ample		adj. 充足的，充裕的；丰满的
 allowance	津贴，补助；限额，定量
 rotate		v. （使）旋转，（使）转动；
-resilient 	有弹力的；能复原的；可迅速恢复
 quota		n. 定额，限额；
 aesthetic	adj. 审美的，美学的；
 chancellor	n财政大臣  总理；
@@ -188,7 +170,36 @@ desperate	绝望，无望
 compatible	adj. 兼容的；可共存的；可和睦相处的；
 
 
-
+/***********
+resilient 	有弹力的；能复原的；可迅速恢复
+stroke				中风 行程 笔画
+ascertain	vt. 确定；查明；探知
+offensive		adj. 无礼的，冒犯的；令人不快（讨厌）的；
+pillow		n. 枕头；蕾丝枕头
+queer		adj. 奇怪的，异常的；男同性恋的
+bandage			n. 绷带
+governor		n. 州长；<英>主管，机构负责人；老板；调速器，调节器
+legitimate			adj. 正当的，合理的；合法的，依法的；
+revolt				n. 反抗，违抗；叛乱，造反
+raid					n. 袭击；突袭；搜捕；抢劫
+pregnant		adj. 怀孕的，妊娠的；意味深长的
+velocity		n. 速度，速率；高速
+harassment		n. 骚扰，扰乱；烦恼，烦乱
+wardrobe			n. 衣柜，衣橱，藏衣室；全部衣物
+impair			vt. 损害，损伤；削弱；减少
+swamp			n. 沼泽，沼地
+surrender			v. 投降；放弃
+imperative			adj. 极重要的，必要的；命令的
+evacuate		v. 转移，撤离；抽出，抽空
+pitch			足球场
+apparent		adj. 显而易见的，易懂的
+blunt			adj. 钝的，不锋利的；直言不讳的
+boycott			v. 抵制，拒绝参加
+flatter			v. 奉承，讨好
+discrepency
+eloquent				有说服力的
+eloquent				有说服力的
+***/
 
 
 
@@ -212,16 +223,12 @@ lame					adj. （理由，借口）站不住脚的
 aisle					n. 过道，通道
 memorandum				n. 备忘录
 scarf					n. 围巾；头巾
-masterpiece				n. 杰作，名著
-Celsius					n. 【医】摄氏
 weed					n. 杂草，野草
 tub						n. 木盆，澡盆
-eloquent				有说服力的
 uphold					v. 支持；支撑
 spicy					辛辣的；香的
 gracious				adj. 慈祥的；有礼貌的；
 greedy					adj. 贪婪的；贪吃的；渴望的
-intimidate				vt. 恐吓，威胁；胁迫
 conversely				adv. 相反
 harm					n.伤害, 损害
 bald					adj.秃顶的；光秃的；
