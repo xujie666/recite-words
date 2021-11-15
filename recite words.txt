@@ -347,3 +347,4 @@ boldness		n. 大胆；冒失；显著
 contrive		v. 谋划，策划；设计，发明
 manuscript		n. 手稿，原稿；手抄本
 publicity		n. （媒体的）关注，报道；宣传
+robust        强大的
