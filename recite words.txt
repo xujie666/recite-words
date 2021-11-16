@@ -1,6 +1,5 @@
 
 hesitate	v. 犹豫，不愿意
-dam	筑坝；阻止，抑制
 vacant	adj. 空的；空缺的；空虚的
 knot	结，绞成乱团的头发
 predecessor	n. 前任，前辈；（被取代的）原有事物，前身
@@ -22,7 +21,8 @@ stationary		不动的，静止的；不变的
 obsolete	adj. 废弃的；老式的
 petrol		汽油；深蓝绿色
 delegate	v. 授权，把……委托给
-scale new height 勇攀高峰
+desperate		adj. 不顾一切的，拼命的
+scale new height 	勇攀高峰
 seek out	找出；搜出；想获得
 eliminate	v. 剔除，根除；对……不予考虑，
 varies	不同；改变
@@ -44,7 +44,6 @@ argument	n. 论证；论据；争吵；
 promote			v. 促进，提倡；升职
 urban		adj. 城市的；住在都市的
 ironic		adj. 反语的，讽刺的
-
 indispensable	adj. 不可缺少的；绝对必要的；责无旁贷的
 stabilize	v. （使）稳定
 
@@ -59,9 +58,9 @@ inertia		n. 缺乏活力，惰性
 cement		n. 水泥；胶合剂，接合剂
 bay			港湾
 mourn		v. 悼念，哀悼；对
-prescription	n. 处方，药方；处方药；开处方，
+prescription	 n. 处方，药方；处方药；开处方，
 habitat		n. （动植物的）生活环境，栖息地
-
+inhabit		v. 居住于，栖居在
 ascend		v. 攀登，登上；上升，升高，
 pharmacy	n. 药店；（医院的）药房，
 feat		n. 功绩，壮举；武艺，技艺
@@ -75,9 +74,7 @@ sew			vt. 缝合，缝上；缝纫
 notion		n. 概念，想法；缝纫用品；
 dam			n. 堤，坝；母兽，母畜
 
-hesitate	v. 犹豫，不愿意
-
-
+		
 
 amid		在……过程中	
 relish		vt. 欣赏；品尝	
@@ -85,7 +82,7 @@ thermometer n. 温度计；体温计
 corrupt		adj. 腐败的，贪污的；不道德的，
 conscious	adj. 意识到的；神志清醒的
 instantaneous	adj. 瞬间发生的，瞬间完成的
-racial		adj. 种族关系的，种族之间的；
+uphold		v. 支持，维护
 unfold		v. 透露；展现（思想，信息）
 carve		v. . 雕刻，刻（硬材料），切割
 fracture	n. 破裂，断裂；骨折
@@ -129,7 +126,6 @@ bewilder	v. 迷惑，（使）糊涂
 wink		v. 眨眼，眨眼示意；闪烁；明灭
 inevitable	adj. 必然发生的；不可避免的
 napkin		n. 餐巾；餐巾纸
-
 nursery		n. 托儿所，幼儿园；儿童房
 mud			n. 泥，淤泥，泥浆
 
@@ -141,7 +137,6 @@ offensive		adj. 无礼的，冒犯的；令人不快（讨厌）的；
 pillow		n. 枕头；蕾丝枕头
 queer		adj. 奇怪的，异常的；男同性恋的
 bandage			n. 绷带
-governor		n. 州长；<英>主管，机构负责人；老板；调速器，调节器
 legitimate			adj. 正当的，合理的；合法的，依法的；
 revolt				n. 反抗，违抗；叛乱，造反
 raid					n. 袭击；突袭；搜捕；抢劫
@@ -153,16 +148,13 @@ impair			vt. 损害，损伤；削弱；减少
 swamp			n. 沼泽，沼地
 surrender			v. 投降；放弃
 imperative			adj. 极重要的，必要的；命令的
-evacuate		v. 转移，撤离；抽出，抽空
 pitch			足球场
 apparent		adj. 显而易见的，易懂的
 blunt			adj. 钝的，不锋利的；直言不讳的
 boycott			v. 抵制，拒绝参加
 flatter			v. 奉承，讨好
-discrepency
-eloquent				有说服力的
-eloquent				有说服力的
 
+eloquent				有说服力的
 proof				验证
 mitigate 				vt. 使缓和
 straightforward 		adj. 简单的，易懂的
@@ -174,12 +166,9 @@ trivial
 stance					n. 立场, （尤指体育运动中的）站立姿势
 appendix				n. 附录；阑尾；
 detach					v. 离开（地方）；脱离（组织）分离，分开
-lounge					休息室；（机场等的）等候室；起居室
-lavatory				n. 厕所，盥洗室
-damp					adj. 潮湿的
+
 chef					n. 厨师长，厨师
 flare 					闪耀；突发			
-pendulum				n. 摆，钟摆；摇摆不定	
 hunt					搜寻，寻找；追猎；猎取
 stalk					n. 茎，秆
 lame					adj. （理由，借口）站不住脚的	
@@ -218,8 +207,6 @@ intervene		v. 干预，干涉
 vary			v. （使）不同，（使）呈现差异；
 bureaucracy		n. 官僚制度，官僚机构，官僚作风
 recruiter		n. 招聘人员，征兵人员	
-pattern			n. 模式，方式；图案，
-drift			v. 飘移，漂流；流浪，漂泊；缓慢移动；
 endorsement		n. 背书，票据签字；
 dare			v. 激，激将；敢于，胆敢
 consultancy		n. 咨询公司；顾问工作
@@ -229,11 +216,8 @@ resign			v. 辞（职），放弃（工作或职位）；
 respective		adj. 分别的，各自的
 consent			n. 许可，允许；同意，赞同；
 reunion			n. （有组织的）聚会，团聚；重逢，团圆；
-interpretation	n. 解释，理解；表演
-concrete		n. 混凝土
-weave			编，织；（用……）编成									
+interpretation	n. 解释，理解；表演								
 conformity		n. 遵守，依照；随大流，循规蹈矩；	
-trim			v. 修剪，修整；削减，减少；修饰，
 
 
 persecute		迫害，残害
@@ -248,13 +232,10 @@ catastrophe		n. 灾难，灾祸；麻烦
 
 formidable		adj. 可怕的，令人敬畏的	
 refrain			v. 克制，避免
-feeble			adj. 衰弱的，虚弱的；
-evaporate 		v. （使）蒸发，挥发；消失，消散
 consequence		n. 结果，后果；重要性，价值
 astrobiology	n. [生物物理] 天体生物学	
 
-
-superstition	n. 迷信	
+	
 tremble			v. （因害怕、紧张、兴奋等）颤抖，哆嗦；颤动，轻轻摇晃；害怕，紧张；（声音）颤抖
 statue			vt. 以雕像装饰	
 blush			v. 脸红；惭愧
@@ -283,38 +264,23 @@ huddle			v. 蜷缩，依偎；（私下）开会
 slum			n. 贫民窟，棚屋区	
 anxiety			n. 焦虑，忧虑
 scorn			n. 蔑视，轻视；嗤之以鼻的态度
-mediate			调解
 poultry			n. 家禽；家禽肉
 humble			adj. 谦虚的，谦卑的
-simultaneous	adj. 同时发生的，同步的
 enthusiastic	adj. 热心的，热情的	
 dazzle			使目眩，使眼花；使惊叹
-numerical		adj. 数字的，用数字表示的
-parallel		adj. 平行的；相似的，同时发生的	
-underestimate	v. 低估，对……估计不足	
-deviate			v. 偏离，违背；使偏离
-correlate		v. 相互关联；显示紧密联系
-glory			n. 光荣，荣誉
-plausible		adj. 似乎是真的，貌似有理的；
-cigar			n. 雪茄
-suspicion		n. 不好的预感，猜想；	
+
 clergy			n. 神职人员；牧师；僧侣
 deceit			n. 欺骗，诡计
-herd			n. 兽群，畜群；人群，民众
 
 11.14
 
-
-hierarchy		hierarchy
+hierarchy		n. 等级制度；统治集团；等级体系
 stroke		中风 行程 笔画
 ascertain		vt. 确定；查明；探知
 offensive		adj. 无礼的，冒犯的；令人不快（讨厌）的；
 pillow		n. 枕头；蕾丝枕头
 
-legitimate	adj. 正当的，合理的；合法的，依法的；
-disclose	v. 透露，公开；揭开，使显露
 glide		vi. 滑翔；滑行；悄悄地走；消逝
-revolt		n. （对权威、规定、法律的）反抗，违抗；叛乱，造反
 algorithm		n. 算法，运算法则
 slaughter	n. 屠宰；（对人的）屠杀
 hesitate	v. 犹豫，不愿意
@@ -326,7 +292,6 @@ commonwealth		n. 国家，独立的政治共同体
 
 
 11.15
-offset			v. 补偿，抵销；衬托出
 traitor			n. 叛徒；卖国贼；
 shaft			n. 竖井；通风井；
 monotonous		adj. 单调乏味的，毫无变化的	
@@ -342,9 +307,79 @@ virgin			n. 处女，童男
 decay			v. 破败，衰落
 approval		n. 称许，赞成；批准，许可
 propagate		v. 散播，宣传（观点、信仰等）；传播		
-cunning			adj. 狡猾的，诡诈的；灵巧的
 boldness		n. 大胆；冒失；显著	
-contrive		v. 谋划，策划；设计，发明
+
 manuscript		n. 手稿，原稿；手抄本
 publicity		n. （媒体的）关注，报道；宣传
 robust        强大的
+
+
+并且这几种论证方式可以结合使用，请同学们针对考试题目酌情选用。各种论证方式，都选择了一些
+真题范文供大家参考
+参考1原因列举：
+To begin with, people whoknow文章关键词 will be able to.. As an illustration. What’s more, 文章
+关键词 can help us to develop... In other words,
+(原因列举的论证方式一般适用于正面话题，比如2004年“坚持”,2008 年“合作”,2012年“乐观”，
+2016 年“榜样的力量”，2017 年“及时行动的重要性”，2019年“坚持”，2020年“习惯”等，这种论证方
+式重点在于分论点的提取，归纳概括出该话题/品质能够给我们带来的好处。
+真题范文 （2020第二段）
+The intention of the above two cartoons is to show us that forming good habits is of utmost significance
+in our daily life. To begin with, people who know how to form good habits will be able to ensure strong
+academic performance. As an illustration, those students who prioritize their commitments, schedule their
+time reasonably and avoid procrastination are certain to make steady gains in their grades. What's more,
+forming excellent habits can help us to develop confidence and to maintain a healthy mental state. In other
+words, forming good habits can play a key role in keeping us spiritually fit and reducing the pressure and
+anxiety that accompany modern life for most voung people.
+以上两幅漫画的目的是告诉我们，在我们的日常生活活中，养成良好的习惯非常重要。首先，那
+些知道如何培养良好习惯的人能够确保有较好的学业成绩。例如，那些把学习任务放在首位、合理安
+排时间并且避免拖沓的学生肯定会稳步提高自己的成绩。其次，养成良好的习惯可以帮助我们增长自
+信并且保持一种健康的精神状态。换言之，养成良好的习惯在保持人们心理健康、减轻大多数年轻人
+在现代生活中产生的压力和焦虑方面起着着关键的作用。
+真题范文 （2012第二段）
+The aim of the portrayal is to illustrate that keeping optimistic is of utmost significance to our life. In
+the first place, optimism brings our creative power into play, arouses our enthusiasm for work and helps us
+overcome difficulties. Yet with pessimism, achievements can hardly be made. In the second place, keeping
+optimistic gives us light when we are in the dark, and encouragement when we are dismayed. It is optimism,
+rather than genius or extraordinary abilities, that inspires us to finish an arduous task. With optimism, the
+
+
+remnant
+curve
+sauce
+flu
+preclude
+absurd
+paradise
+discrepency
+miniature
+emigrate
+mild
+deceite
+entitle
+herd			n. 兽群，畜群；人群，民众
+plausible		adj. 似乎是真的，貌似有理的；
+deteriorate
+gravity
+correlate		v. 相互关联；显示紧密联系
+glory			n. 光荣，荣誉
+underestimate	v. 低估，对……估计不足	
+parallel		adj. 平行的；相似的，同时发生的
+numerical		adj. 数字的，用数字表示的
+dictation		n. 口述，听写
+potential		潜力，可能性；
+simultaneous	adj. 同时发生的，同步的
+damp					adj. 潮湿的
+evaporate 		v. （使）蒸发，挥发；消失，消散
+evacuate		v. 转移，撤离；抽出，抽空
+feeble			adj. 衰弱的，虚弱的	
+expel			v. 把……开除
+claw
+strenuous		adj. 紧张的；费力的；奋发的
+royalty			n. 王族，王室；王权，
+contrive		v. 谋划，策划；设计，发明
+jungle			n. 丛林	
+pendulum	  n. 摆，钟摆；摇摆不定	
+lounge					休息室；（机场等的）等候室；起居室
+lavatory				n. 厕所，盥洗室
+suspicion		不好的预感，猜想	
+superstition	n. 迷信
