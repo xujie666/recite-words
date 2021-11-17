@@ -1,101 +1,48 @@
 
 hesitate	v. 犹豫，不愿意
-vacant	adj. 空的；空缺的；空虚的
-knot	结，绞成乱团的头发
-predecessor	n. 前任，前辈；（被取代的）原有事物，前身
-penalty			处罚，刑罚
 arch	n. 拱门；拱顶；足弓；拱形物
-commonwealth	n. 国家，独立的政治共同体
-sob		v. 啜泣，抽噎；哭诉，呜咽地说
-microphone	n. 扩音器，麦克风
-
-
 dedicate	v. 致力于，献身于；把献给；
-astonish 		v. 使吃惊，使惊讶
-lucrative		adj. 获利多的，赚大钱的
 inn				小旅馆，小酒馆
-stocking		长筒袜
 mobilize		v. 动员，组织；调动，
 culprit			犯人，罪犯；
 stationary		不动的，静止的；不变的
 obsolete	adj. 废弃的；老式的
-petrol		汽油；深蓝绿色
 delegate	v. 授权，把……委托给
 desperate		adj. 不顾一切的，拼命的
 scale new height 	勇攀高峰
-seek out	找出；搜出；想获得
 eliminate	v. 剔除，根除；对……不予考虑，
-varies	不同；改变
-
 evolution	n. 进化（论）；演变，发展
 predator	n. 捕食性动物； 掠夺者，掠
 morally		adv. 道德上；有道德地；
 immense		adj. 极大的，巨大的；非常好
 
-nutrition	n. 营养，滋养；营养学
-justifiable 	adj. 可辩解的,有道理的,可证明为正当的
-defensible		adj. 可防御的；可辩护的
 subsistence		. 勉强生存，维持生计；赖以活命的食物
-percentage		n. 百分比，百分率；部分，比例
-disapproval		n. 不赞同，反对
-charging		v. 要价；收费；指责
 argument	n. 论证；论据；争吵；
-
-promote			v. 促进，提倡；升职
-urban		adj. 城市的；住在都市的
 ironic		adj. 反语的，讽刺的
 indispensable	adj. 不可缺少的；绝对必要的；责无旁贷的
 stabilize	v. （使）稳定
-
-merchandise n. 商品，货品；相关商品
-discern		vt. 觉察出；识别；了解；
-maintenance	维修 保养
-fatigue		n. 疲乏，厌倦；
 reliance	n. 依靠，信任	
 whip		n. 鞭子，皮鞭；党鞭
 scrap		碎片，小块；
 inertia		n. 缺乏活力，惰性
-cement		n. 水泥；胶合剂，接合剂
-bay			港湾
-mourn		v. 悼念，哀悼；对
 prescription	 n. 处方，药方；处方药；开处方，
 habitat		n. （动植物的）生活环境，栖息地
 inhabit		v. 居住于，栖居在
-ascend		v. 攀登，登上；上升，升高，
 pharmacy	n. 药店；（医院的）药房，
-feat		n. 功绩，壮举；武艺，技艺
 entertain	招待 娱乐
+legislation	n. 法规，法律；
+legitimate	adj. 正当的，合理的；合法的，依法的；
+feat		n. 功绩，壮举；武艺，技艺
 tragic		adj. 悲惨的，悲痛的，
 expertise	n. 专长，
-shallow		adj. 浅的，不深的；肤浅的，
-envy		v. 羡慕，忌妒；向往，
-legislation	n. 法规，法律；
 sew			vt. 缝合，缝上；缝纫
-notion		n. 概念，想法；缝纫用品；
-dam			n. 堤，坝；母兽，母畜
-
-		
-
-amid		在……过程中	
-relish		vt. 欣赏；品尝	
 thermometer n. 温度计；体温计
-corrupt		adj. 腐败的，贪污的；不道德的，
-conscious	adj. 意识到的；神志清醒的
-instantaneous	adj. 瞬间发生的，瞬间完成的
-uphold		v. 支持，维护
-unfold		v. 透露；展现（思想，信息）
-carve		v. . 雕刻，刻（硬材料），切割
-fracture	n. 破裂，断裂；骨折
-hay			n. （用作饲料的）干草；
-quest		n. 追求；寻找；任务
 furious		adj. 狂怒的，暴怒的；狂暴的
 verbal		adj. 口头的，非书面的；用言辞的，
 tropical	adj. 热带的，热带地区的；
 mute		adj. 哑的，沉默的；（活动）无声的
 rag			n. 抹布，破布； 破衣烂衫
-bunch		n. 束，串，扎；一伙，一群
 intimate	adj. 亲密的；（指地方或环境）亲密融洽的
-
 
 shabby		adj. 破旧的，破烂的；
 screw		n. 螺丝（钉）；螺杆，螺丝杆					
@@ -137,7 +84,6 @@ offensive		adj. 无礼的，冒犯的；令人不快（讨厌）的；
 pillow		n. 枕头；蕾丝枕头
 queer		adj. 奇怪的，异常的；男同性恋的
 bandage			n. 绷带
-legitimate			adj. 正当的，合理的；合法的，依法的；
 revolt				n. 反抗，违抗；叛乱，造反
 raid					n. 袭击；突袭；搜捕；抢劫
 velocity		n. 速度，速率；高速
