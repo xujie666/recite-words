@@ -76,16 +76,27 @@ napkin		n. 餐巾；餐巾纸
 nursery		n. 托儿所，幼儿园；儿童房
 mud			n. 泥，淤泥，泥浆
 
+priest		n. 牧师，神职人员；
+hedge		n. 树篱；防范措施，防备手段
+rug 		n. 小地毯，垫子
+
+
+
 /***********
-resilient 	有弹力的；能复原的；可迅速恢复
+torch 			n. <英>手电筒；火把
+remedy 			n. 解决方法，纠正方法
+lame 			adj. 瘸的，跛的，残疾的
+fluctuate 		v. 波动，起伏不定
+sane 			adj. 健全的；理智的；
+resilient 		有弹力的；能复原的；可迅速恢复
 stroke				中风 行程 笔画
-ascertain	vt. 确定；查明；探知
+ascertain		vt. 确定；查明；探知
 offensive		adj. 无礼的，冒犯的；令人不快（讨厌）的；
-pillow		n. 枕头；蕾丝枕头
-queer		adj. 奇怪的，异常的；男同性恋的
+pillow			n. 枕头；蕾丝枕头
+queer			adj. 奇怪的，异常的；男同性恋的
 bandage			n. 绷带
-revolt				n. 反抗，违抗；叛乱，造反
-raid					n. 袭击；突袭；搜捕；抢劫
+revolt			n. 反抗，违抗；叛乱，造反
+raid			n. 袭击；突袭；搜捕；抢劫
 velocity		n. 速度，速率；高速
 harassment		n. 骚扰，扰乱；烦恼，烦乱
 harness		v. （尤指为产生能量而）控制并利用（自然资源）；治理；利用
@@ -105,6 +116,8 @@ proof				验证
 mitigate 				vt. 使缓和
 straightforward 		adj. 简单的，易懂的
 trivial
+frequent	 			adj. 频繁的，经常性的
+dweller					n. 居民，居住者
 ***/	
 
 
@@ -289,7 +302,7 @@ optimistic gives us light when we are in the dark, and encouragement when we are
 rather than genius or extraordinary abilities, that inspires us to finish an arduous task. With optimism, the
 
 
-remnant
+remnant				n. 残余部分，残迹；
 curve
 sauce
 flu
