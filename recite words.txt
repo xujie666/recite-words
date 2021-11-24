@@ -187,8 +187,8 @@ requisite		adj. 必备的，必不可少的
 consensus		n. 一致看法，共识	
 consent			n. 许可，允许；同意，赞同
 catastrophe		n. 灾难，灾祸；麻烦
-
-
+prompt			dj. 迅速的，
+vendor			供应商,小贩，摊贩
 formidable		adj. 可怕的，令人敬畏的	
 refrain			v. 克制，避免
 consequence		n. 结果，后果；重要性，价值
@@ -342,3 +342,42 @@ lounge					休息室；（机场等的）等候室；起居室
 lavatory				n. 厕所，盥洗室
 suspicion		不好的预感，猜想	
 superstition	n. 迷信
+
+frequent                adj. 频繁的，经常性的
+clergy					n. 神职人员；牧师
+clumsy					adj. 笨拙的，不灵活的
+engulf					vt. 吞没；吞食
+ecological				adj. 生态的，生态学的
+remnant 				n. 残余部分，残迹；布头
+hedge					n. 树篱；防范措施，防备手段
+rug						n. 小地毯，垫子
+remedy					n. 解决方法，纠正方法
+torch                   n. <英>手电筒；火把
+lame					adj. （理由，借口）站不住脚的	
+fluctuate				v. 波动，起伏不定
+sane					adj.理智的
+suicide					n. 自杀；自杀者；自杀性的行为
+
+
+rival					n. 竞争对手，敌手
+copper                  n. 铜；
+scatter					v. 撒，播撒
+republication			n. 再版；再发行
+temple					n. 庙宇，寺院；
+palace					n. 王宫，（官位极高者的）府邸
+shade					阴凉处；
+count on				依靠
+soak up 				v. 吸收	
+hasten					v. 促进
+trap					困境，牢笼
+strike a balance		结账；公平处理	
+in the event of        	万一 如果 倘若 产生
+acre					n. 土地，地产；英亩
+auction					n. 拍卖
+prioritize				v. 按优先顺序列出	
+lumber					n. 木材；废旧家具
+fuel             		n. 燃料 
+finalize				v. 最后决定，定稿
+
+
+
