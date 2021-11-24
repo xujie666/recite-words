@@ -265,7 +265,7 @@ intricate		adj. 错综复杂的；难理解的
 virgin			n. 处女，童男
 decay			v. 破败，衰落
 approval		n. 称许，赞成；批准，许可
-propagate		v. 散播，宣传（观点、信仰等）；传播		
+propagate		v. 散播，宣传（观点、信仰等)传播		
 boldness		n. 大胆；冒失；显著	
 
 manuscript		n. 手稿，原稿；手抄本
@@ -303,45 +303,44 @@ rather than genius or extraordinary abilities, that inspires us to finish an ard
 
 
 remnant				n. 残余部分，残迹；
-curve
-sauce
-flu
-preclude
-absurd
-paradise
-discrepency
-miniature
-emigrate
-mild
-deceite
-entitle
-herd			n. 兽群，畜群；人群，民众
-plausible		adj. 似乎是真的，貌似有理的；
-deteriorate
-gravity
-correlate		v. 相互关联；显示紧密联系
-glory			n. 光荣，荣誉
-underestimate	v. 低估，对……估计不足	
-parallel		adj. 平行的；相似的，同时发生的
-numerical		adj. 数字的，用数字表示的
-dictation		n. 口述，听写
-potential		潜力，可能性；
-simultaneous	adj. 同时发生的，同步的
-damp					adj. 潮湿的
-evaporate 		v. （使）蒸发，挥发；消失，消散
-evacuate		v. 转移，撤离；抽出，抽空
-feeble			adj. 衰弱的，虚弱的	
-expel			v. 把……开除
-claw
-strenuous		adj. 紧张的；费力的；奋发的
-royalty			n. 王族，王室；王权，
-contrive		v. 谋划，策划；设计，发明
-jungle			n. 丛林	
-pendulum	  n. 摆，钟摆；摇摆不定	
-lounge					休息室；（机场等的）等候室；起居室
-lavatory				n. 厕所，盥洗室
-suspicion		不好的预感，猜想	
-superstition	n. 迷信
+curve				n. 曲线，弧线；转弯，弯道；
+sauce				n. 酱，调味汁
+flu  				n. 流行性感冒，流感	
+preclude 			vt. 排除；妨碍；阻止	
+absurd				adj. 愚蠢的，荒谬的；
+paradise			天堂，天国；
+discrepancy        	n. 差异，不符
+miniature			adj. 微型的，小型的
+emigrate			v. 移居外国，
+mild  				adj. （伤病）不严重的，轻微的
+entitle				v. 给予（某人）权利，给（某人）资格
+herd				n. 兽群，畜群；人群，民众
+plausible			adj. 似乎是真的，貌似有理的；
+deteriorate			v. 恶化，变坏	
+gravity				n. 重力，地心引力；严重性；
+correlate			v. 相互关联；显示紧密联系
+glory				n. 光荣，荣誉
+underestimate		v. 低估，对……估计不足	
+parallel			adj. 平行的；相似的，同时发生的
+numerical			adj. 数字的，用数字表示的
+dictation			n. 口述，听写
+potential			潜力，可能性；
+simultaneous		adj. 同时发生的，同步的
+damp				adj. 潮湿的
+evaporate 			v. （使）蒸发，挥发；消失，消散
+evacuate			v. 转移，撤离；抽出，抽空
+feeble				adj. 衰弱的，虚弱的	
+expel				v. 把……开除
+claw				n. （动物的）爪，爪子；	
+strenuous			adj. 紧张的；费力的；奋发的
+royalty				n. 王族，王室；王权，
+contrive			v. 谋划，策划；设计，发明
+jungle				n. 丛林	
+pendulum	  		n. 摆，钟摆；摇摆不定	
+lounge				休息室；（机场等的）等候室；起居室
+lavatory			n. 厕所，盥洗室
+suspicion			不好的预感，猜想	
+superstition		n. 迷信
 
 frequent                adj. 频繁的，经常性的
 clergy					n. 神职人员；牧师
