@@ -1,19 +1,15 @@
 
 hesitate	v. 犹豫，不愿意
-arch	n. 拱门；拱顶；足弓；拱形物
 dedicate	v. 致力于，献身于；把献给；
 inn				小旅馆，小酒馆
 mobilize		v. 动员，组织；调动，
 culprit			犯人，罪犯；
 stationary		不动的，静止的；不变的
 obsolete	adj. 废弃的；老式的
+obstacle	
 delegate	v. 授权，把……委托给
 desperate		adj. 不顾一切的，拼命的
-scale new height 	勇攀高峰
-eliminate	v. 剔除，根除；对……不予考虑，
-evolution	n. 进化（论）；演变，发展
 predator	n. 捕食性动物； 掠夺者，掠
-morally		adv. 道德上；有道德地；
 immense		adj. 极大的，巨大的；非常好
 
 subsistence		. 勉强生存，维持生计；赖以活命的食物
@@ -22,7 +18,6 @@ ironic		adj. 反语的，讽刺的
 indispensable	adj. 不可缺少的；绝对必要的；责无旁贷的
 stabilize	v. （使）稳定
 reliance	n. 依靠，信任	
-whip		n. 鞭子，皮鞭；党鞭
 scrap		碎片，小块；
 inertia		n. 缺乏活力，惰性
 prescription	 n. 处方，药方；处方药；开处方，
@@ -32,12 +27,7 @@ pharmacy	n. 药店；（医院的）药房，
 entertain	招待 娱乐
 legislation	n. 法规，法律；
 legitimate	adj. 正当的，合理的；合法的，依法的；
-feat		n. 功绩，壮举；武艺，技艺
-tragic		adj. 悲惨的，悲痛的，
-expertise	n. 专长，
-sew			vt. 缝合，缝上；缝纫
 thermometer n. 温度计；体温计
-furious		adj. 狂怒的，暴怒的；狂暴的
 verbal		adj. 口头的，非书面的；用言辞的，
 tropical	adj. 热带的，热带地区的；
 mute		adj. 哑的，沉默的；（活动）无声的
@@ -84,24 +74,19 @@ rug 		n. 小地毯，垫子
 
 /***********
 torch 			n. <英>手电筒；火把
-remedy 			n. 解决方法，纠正方法
 lame 			adj. 瘸的，跛的，残疾的
 fluctuate 		v. 波动，起伏不定
-sane 			adj. 健全的；理智的；
 resilient 		有弹力的；能复原的；可迅速恢复
-stroke				中风 行程 笔画
-ascertain		vt. 确定；查明；探知
 offensive		adj. 无礼的，冒犯的；令人不快（讨厌）的；
+offend			v. 得罪，冒犯；令人不悦
+pedal			脚踏板
 pillow			n. 枕头；蕾丝枕头
 queer			adj. 奇怪的，异常的；男同性恋的
 bandage			n. 绷带
-revolt			n. 反抗，违抗；叛乱，造反
-raid			n. 袭击；突袭；搜捕；抢劫
 velocity		n. 速度，速率；高速
 harassment		n. 骚扰，扰乱；烦恼，烦乱
 harness		v. （尤指为产生能量而）控制并利用（自然资源）；治理；利用
 wardrobe			n. 衣柜，衣橱，藏衣室；全部衣物
-impair			vt. 损害，损伤；削弱；减少
 swamp			n. 沼泽，沼地
 surrender			v. 投降；放弃
 imperative			adj. 极重要的，必要的；命令的
@@ -190,7 +175,6 @@ catastrophe		n. 灾难，灾祸；麻烦
 prompt			dj. 迅速的，
 vendor			供应商,小贩，摊贩
 formidable		adj. 可怕的，令人敬畏的	
-refrain			v. 克制，避免
 consequence		n. 结果，后果；重要性，价值
 astrobiology	n. [生物物理] 天体生物学	
 
@@ -203,12 +187,14 @@ vanity			n. 虚荣（心），自负
 antenna 		n. 触须，触角
 dread			v. 畏惧，担心	
 sarcastic		adj. 讽刺的，嘲笑的
+sacred			adj. 神的，神圣的；宗教的
 brandy			n. 白兰地（酒）
 variation		n. 变化，变动；变奏曲；变化，	
 transmit		v. 播送，传输，发射；传递
 surpass			v. 超过，胜过，优于
 breach			n. 违反
 abide			v. 遵守
+idle  			懒惰的；空闲的
 flatter			v. 奉承，讨好；使高兴
 convey			v. 传送，运输；表达
 ponder			v. 仔细考虑，琢磨
@@ -237,13 +223,8 @@ hierarchy		n. 等级制度；统治集团；等级体系
 stroke		中风 行程 笔画
 ascertain		vt. 确定；查明；探知
 offensive		adj. 无礼的，冒犯的；令人不快（讨厌）的；
-pillow		n. 枕头；蕾丝枕头
 
-glide		vi. 滑翔；滑行；悄悄地走；消逝
-algorithm		n. 算法，运算法则
-slaughter	n. 屠宰；（对人的）屠杀
 hesitate	v. 犹豫，不愿意
-vacant		adj. 空的；空缺的；空虚的
 predecessor		n. 前任，前辈；（被取代的）原有事物，前身
 penalty			处罚，刑罚
 arch			n. 拱门；拱顶；足弓；拱形物
@@ -254,40 +235,18 @@ commonwealth		n. 国家，独立的政治共同体
 traitor			n. 叛徒；卖国贼；
 shaft			n. 竖井；通风井；
 monotonous		adj. 单调乏味的，毫无变化的	
-gradual			adj. 逐渐的，渐进的；
 brow			n. 眉毛；坡顶
 illuminate		v. 照射，照亮；阐明，解释
 auditorium		n. 观众席；礼堂，会堂
 premium			n. 保险费
 weird			adj. 奇怪的，不寻常的；怪异的，超自然的
-witch			n. 巫婆，巫师
-intricate		adj. 错综复杂的；难理解的
-virgin			n. 处女，童男
-decay			v. 破败，衰落
-approval		n. 称许，赞成；批准，许可
 propagate		v. 散播，宣传（观点、信仰等)传播		
 boldness		n. 大胆；冒失；显著	
-
-manuscript		n. 手稿，原稿；手抄本
+prophet			n. 先知；预言者
 publicity		n. （媒体的）关注，报道；宣传
 robust        强大的
 
 
-
-参考1原因列举：
-To begin with, people whoknow文章关键词 will be able to.. As an illustration. What’s more, 文章
-关键词 can help us to develop... In other words,
-(原因列举的论证方式一般适用于正面话题，比如2004年“坚持”,2008 年“合作”,2012年“乐观”，
-2016 年“榜样的力量”，2017 年“及时行动的重要性”，2019年“坚持”，2020年“习惯”等，这种论证方
-式重点在于分论点的提取，归纳概括出该话题/品质能够给我们带来的好处。
-真题范文 （2020第二段）
-The intention of the above two cartoons is to show us that forming good habits is of utmost significance
-in our daily life. To begin with, people who know how to form good habits will be able to ensure strong
-academic performance. As an illustration, those students who prioritize their commitments, schedule their
-time reasonably and avoid procrastination are certain to make steady gains in their grades. What's more,
-forming excellent habits can help us to develop confidence and to maintain a healthy mental state. In other
-words, forming good habits can play a key role in keeping us spiritually fit and reducing the pressure and
-anxiety that accompany modern life for most voung people.
 以上两幅漫画的目的是告诉我们，在我们的日常生活活中，养成良好的习惯非常重要。首先，那
 些知道如何培养良好习惯的人能够确保有较好的学业成绩。例如，那些把学习任务放在首位、合理安
 排时间并且避免拖沓的学生肯定会稳步提高自己的成绩。其次，养成良好的习惯可以帮助我们增长自
@@ -318,7 +277,6 @@ plausible			adj. 似乎是真的，貌似有理的；
 deteriorate			v. 恶化，变坏	
 gravity				n. 重力，地心引力；严重性；
 correlate			v. 相互关联；显示紧密联系
-glory				n. 光荣，荣誉
 underestimate		v. 低估，对……估计不足	
 parallel			adj. 平行的；相似的，同时发生的
 numerical			adj. 数字的，用数字表示的
@@ -349,18 +307,9 @@ ecological				adj. 生态的，生态学的
 remnant 				n. 残余部分，残迹；布头
 hedge					n. 树篱；防范措施，防备手段
 rug						n. 小地毯，垫子
-remedy					n. 解决方法，纠正方法
-torch                   n. <英>手电筒；火把
 lame					adj. （理由，借口）站不住脚的	
 fluctuate				v. 波动，起伏不定
-sane					adj.理智的
-suicide					n. 自杀；自杀者；自杀性的行为
 
-
-rival					n. 竞争对手，敌手
-copper                  n. 铜
-scatter					v. 撒，播撒
-republication			n. 再版；再发行
 temple					n. 庙宇，寺院；
 shade					阴凉处；
 count on				依靠
@@ -376,5 +325,7 @@ lumber					n. 木材；废旧家具
 fuel             		n. 燃料 
 finalize				v. 最后决定，定稿
 dodge					v. 闪开，躲开；巧妙躲避
-
+eradicate				v. 根除，消灭
+mitigate				vt. 使缓和，使减轻
+As a result
 
