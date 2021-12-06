@@ -13,11 +13,8 @@ predator	n. 捕食性动物； 掠夺者，掠
 immense		adj. 极大的，巨大的；非常好
 
 subsistence		. 勉强生存，维持生计；赖以活命的食物
-argument	n. 论证；论据；争吵；
-ironic		adj. 反语的，讽刺的
-indispensable	adj. 不可缺少的；绝对必要的；责无旁贷的
-stabilize	v. （使）稳定
-reliance	n. 依靠，信任	
+
+stabilize	v. （使）稳定	
 scrap		碎片，小块；
 inertia		n. 缺乏活力，惰性
 prescription	 n. 处方，药方；处方药；开处方，
@@ -36,15 +33,12 @@ intimate	adj. 亲密的；（指地方或环境）亲密融洽的
 
 shabby		adj. 破旧的，破烂的；
 screw		n. 螺丝（钉）；螺杆，螺丝杆					
-nevertheless	adv. 然而，不过
 saint		n.圣徒, 圣人般的人
-premier		adj. 首要的	
-scandal		n. 丑行，丑闻
 thermal		adj. 热的，热量的；
 coward		n. 胆小鬼，懦夫
 magnitude	n. 巨大，重要性；
 perplex		v. 使困惑，使茫然；使复杂化
-owl			n. 鸮，猫头鹰
+owl		n. 鸮，猫头鹰
 conservative  adj. 保守的；保守派的，
 elbow		v. 用肘推, 挤进, 跻身进来, 讨价还价
 temperament	n. 性情；气质
@@ -57,11 +51,7 @@ coalition	n. 结合体，同盟；结合，联合
 crane		n. 鹤；起重机，吊车；机动升降台架
 reconcile	v. 调和，使协调一致；
 portrait	肖像，照片，雕像；描绘
-mayor		n. 市长
 sketch		n.概述，概要	
-bewilder	v. 迷惑，（使）糊涂
-wink		v. 眨眼，眨眼示意；闪烁；明灭
-inevitable	adj. 必然发生的；不可避免的
 napkin		n. 餐巾；餐巾纸
 nursery		n. 托儿所，幼儿园；儿童房
 mud			n. 泥，淤泥，泥浆
@@ -82,7 +72,7 @@ pedal			脚踏板
 queer			adj. 奇怪的，异常的；男同性恋的
 velocity		n. 速度，速率；高速
 harassment		n. 骚扰，扰乱；烦恼，烦乱
-harness		v. （尤指为产生能量而）控制并利用（自然资源）；治理；利用
+harness			v. （尤指为产生能量而）控制并利用（自然资源）；治理；利用
 wardrobe			n. 衣柜，衣橱，藏衣室；全部衣物
 swamp			n. 沼泽，沼地
 surrender			v. 投降；放弃
@@ -124,17 +114,10 @@ seal					v. 密封, 封住; 盖印; 封锁
 11.4
 
 reservation		n. 保留，保护；（房间，座位等的）预订
-spark			n. 导火线，诱因；火花，火星；电火花
 opposition		n. （强烈的） 反对，反抗；对手，竞争者
-polar			adj. 极地的，来自极地的
-integral		adj. 积分的；完整的，整体的
-irrigation		n. 灌溉；冲洗
-memorable		adj. 显著的，难忘的；值得纪念的
-ideological		adj. 思想体系的，意识形态的
 furnish			v. 为 配备家具；提供，供应
 misled			v. 把……带错方向
 intervene		v. 干预，干涉
-vary			v. （使）不同，（使）呈现差异；
 bureaucracy		n. 官僚制度，官僚机构，官僚作风
 endorsement		n. 背书，票据签字；
 dare			v. 激，激将；敢于，胆敢
@@ -146,13 +129,11 @@ transcend  		v. 超出，超越；胜过
 exquisite		adj. 精致的，精美的；剧烈的
 requisite		adj. 必备的，必不可少的
 consensus		n. 一致看法，共识	
-consent			n. 许可，允许；同意，赞同
 catastrophe		n. 灾难，灾祸；麻烦
 prompt			dj. 迅速的，
 vendor			供应商,小贩，摊贩
 formidable		adj. 可怕的，令人敬畏的	
-consequence		n. 结果，后果；重要性，价值
-astrobiology	n. [生物物理] 天体生物学	
+astrobiology	     n. [生物物理] 天体生物学	
 
 	
 tremble			v. （因害怕、紧张、兴奋等）颤抖，哆嗦；颤动，轻轻摇晃；害怕，紧张；（声音）颤抖
@@ -163,10 +144,7 @@ vanity			n. 虚荣（心），自负
 dread			v. 畏惧，担心	
 sarcastic		adj. 讽刺的，嘲笑的
 sacred			adj. 神的，神圣的；宗教的
-brandy			n. 白兰地（酒）
 variation		n. 变化，变动；变奏曲；变化，	
-transmit		v. 播送，传输，发射；传递
-surpass			v. 超过，胜过，优于
 breach			n. 违反
 abide			v. 遵守
 idle  			懒惰的；空闲的
@@ -175,17 +153,13 @@ convey			v. 传送，运输；表达
 ponder			v. 仔细考虑，琢磨
 junk			n. 废旧杂物；垃圾，破烂	
 stipulate		v. 规定，明确要求
-hammer			n. 锤子，榔头
-razor			n. 剃（须）刀
 provision		n. 提供，供应；准备，预备
 faithful		adj. 忠实的，忠诚的；如实的
 huddle			v. 蜷缩，依偎；（私下）开会
 slum			n. 贫民窟，棚屋区	
 anxiety			n. 焦虑，忧虑
-scorn			n. 蔑视，轻视；嗤之以鼻的态度
 poultry			n. 家禽；家禽肉
 humble			adj. 谦虚的，谦卑的
-dazzle			使目眩，使眼花；使惊叹
 clergy			n. 神职人员；牧师；僧侣
 deceit			n. 欺骗，诡计
 
@@ -193,13 +167,11 @@ deceit			n. 欺骗，诡计
 
 hierarchy		n. 等级制度；统治集团；等级体系
 stroke		中风 行程 笔画
-ascertain		vt. 确定；查明；探知
 offensive		adj. 无礼的，冒犯的；令人不快（讨厌）的；
 
-hesitate	v. 犹豫，不愿意
+hesitate	        v. 犹豫，不愿意
 predecessor		n. 前任，前辈；（被取代的）原有事物，前身
 penalty			处罚，刑罚
-arch			n. 拱门；拱顶；足弓；拱形物
 commonwealth		n. 国家，独立的政治共同体
 
 
@@ -209,9 +181,7 @@ shaft			n. 竖井；通风井；
 brow			n. 眉毛；坡顶
 weird			adj. 奇怪的，不寻常的；怪异的，超自然的
 propagate		v. 散播，宣传（观点、信仰等)传播		
-boldness		n. 大胆；冒失；显著	
 prophet			n. 先知；预言者
-publicity		n. （媒体的）关注，报道；宣传
 
 
 The aim of the portrayal is to illustrate that keeping optimistic is of utmost significance to our life. In
@@ -224,60 +194,36 @@ rather than genius or extraordinary abilities, that inspires us to finish an ard
 curve				n. 曲线，弧线；转弯，弯道；
 variant
 shadow
-preclude 			vt. 排除；妨碍；阻止	
-absurd				adj. 愚蠢的，荒谬的；
-paradise			天堂，天国；
-miniature			adj. 微型的，小型的
 emigrate			v. 移居外国，
 mild  				adj. （伤病）不严重的，轻微的
-entitle				v. 给予（某人）权利，给（某人）资格
 herd				n. 兽群，畜群；人群，民众
 plausible			adj. 似乎是真的，貌似有理的；
-deteriorate			v. 恶化，变坏	
 gravity				n. 重力，地心引力；严重性；
-correlate			v. 相互关联；显示紧密联系
 underestimate		v. 低估，对……估计不足	
 dictation			n. 口述，听写
-potential			潜力，可能性；
 simultaneous		adj. 同时发生的，同步的
-damp				adj. 潮湿的
 evaporate 			v. （使）蒸发，挥发；消失，消散
 evacuate			v. 转移，撤离；抽出，抽空
-feeble				adj. 衰弱的，虚弱的	
 expel				v. 把……开除
-claw				n. （动物的）爪，爪子；	
 strenuous			adj. 紧张的；费力的；奋发的
 royalty				n. 王族，王室；王权，
 contrive			v. 谋划，策划；设计，发明
-jungle				n. 丛林	
 pendulum	  		n. 摆，钟摆；摇摆不定	
 superstition		n. 迷信
 
 frequent                adj. 频繁的，经常性的
 clergy					n. 神职人员；牧师
 clumsy					adj. 笨拙的，不灵活的
-engulf					vt. 吞没；吞食
-lame					adj. （理由，借口）站不住脚的	
-fluctuate				v. 波动，起伏不定
-throat
-shade					阴凉处；
-count on				依靠
-soak up 				v. 吸收	
-hasten					v. 促进
 trap					困境，牢笼
 strike a balance		结账；公平处理	
 in the event of        	万一 如果 倘若 产生
 acre					n. 土地，地产；英亩
-auction					n. 拍卖
 prioritize				v. 按优先顺序列出	
 lumber					n. 木材；废旧家具
-fuel             		n. 燃料 
 finalize				v. 最后决定，定稿
-dodge					v. 闪开，躲开；巧妙躲避
 eradicate				v. 根除，消灭
 mitigate				vt. 使缓和，使减轻
 As a result
-convince				v. 使确信，使信服
 leverage				n. 影响力，手段；杠杆力
 scenario				n. 设想，可能发生的情况	
 sought					v. 寻找
