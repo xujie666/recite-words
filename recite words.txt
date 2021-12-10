@@ -217,5 +217,5 @@ extinguish
 bruise
 rehearse
 repertoire
-pyramid
-banquet
+pyramid			n. 金字塔
+banquet			n. 宴会，盛宴
