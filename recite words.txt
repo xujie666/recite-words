@@ -168,69 +168,66 @@ acre 	   				n. 土地，地产；英亩
 lumber					n. 木材；废旧家具
 finalize				v. 最后决定，定稿
 eradicate				v. 根除，消灭
-mitigate				vt. 使缓和，使减轻
-leverage				n. 影响力，手段；杠杆力
-scenario				n. 设想，可能发生的情况	
-sought					v. 寻找
-shield					防护物
-cloak					n. 斗篷，披风
-aftermath				后果，余波
-whistle					n. 哨子；口哨声
-dialect					n. 方言，土话
-ward 					n. 病房，病室
-intimate 				adj. 亲密的；个人的
-intimidate 				v. 恫吓，威胁
-extinguish  			v. 熄灭；消灭
-bruise 					n. 青瘀，伤痕
-rehearse 				v. 排练，排演；监督
-repertoire 				全部剧目
-pyramid					n. 金字塔
-banquet					n. 宴会，盛宴
-gauge					n. 测量仪器；宽度，厚度
-revolve 				旋转；围绕
-sanction 				v. 认可，准许
-jealous 				adj. 妒忌的，好嫉妒的
-gaze					v. 凝视，注视
-appliance				器具
-hike					n. 徒步旅行，远足
-manufacture				制造
-peculiar				adj. 奇怪的，不寻常的		
-judgment				n. 判断，看法
-parade				 	n. 游行；列队表演
-freight					n. 货物；货运
-sacrifice				n. 牺牲，献出；献祭
-occasional 				adj. 偶尔的，不经常的
-cheat	 				v. 欺骗，行骗
-referee					裁判员；仲裁员，调解人
-specifically			adv. 特意，专门地；明确地	
-cradle					n. 摇篮；吊架，吊篮
-punctual				adj. 准时的，守时的
-porcelain				n. 瓷；瓷器	
-pirate					n. 海盗
-franchise				n. 特许经营权
-porcelain				n. 瓷；瓷器
-geology					n. 地质学；地质状况
-cellar					n. 地下室，地窖
-dread					v. 畏惧，担忧；<古>敬畏			
-scrutiny				n. 仔细观察，详细审查
-gleam					v. 发微光，闪烁
-erase					v. 抹去，擦掉	
-misery					n. 痛苦，苦难
-unfold					v. 打开，展开
-heroic					adj. 英雄的，英勇的
-editorial				adj. 编辑的，主编的；社论的
-gracious				adj. 有礼貌的，和蔼的；豪华舒适的
-adequate				adj. 足够的，适当的，
-fulfill					vt. 履行；实现；满足
-appropriate				adj. 合适的，相称的
-assess					v. 评价，评定；估价
-instance				n. 例子
-obligation				义务，责任
-industrialize			工业化
-champagne				n. 香槟酒；香槟酒色
-generous				adj. 慷慨的，大方的；大量的
-extravagant				adj. 奢侈的，挥霍的
-frustrate				v. 使懊恼，使沮丧
-estate 					n. 财产，遗产
-tender					嫩的
-orientation				n. 目标，定位；方向
+mitigate			vt. 使缓和，使减轻
+leverage			n. 影响力，手段；杠杆力
+scenario			n. 设想，可能发生的情况	
+sought				v. 寻找
+shield				防护物
+cloak				n. 斗篷，披风
+aftermath			后果，余波
+whistle				n. 哨子；口哨声
+dialect				n. 方言，土话
+ward 				n. 病房，病室
+intimate 			adj. 亲密的；个人的
+intimidate 			v. 恫吓，威胁
+extinguish  		v. 熄灭；消灭
+bruise 				n. 青瘀，伤痕
+rehearse 			v. 排练，排演；监督
+repertoire 			全部剧目
+pyramid				n. 金字塔
+banquet				n. 宴会，盛宴
+gauge				n. 测量仪器；宽度，厚度
+revolve 			旋转；围绕
+sanction 			v. 认可，准许
+jealous 			adj. 妒忌的，好嫉妒的
+gaze				v. 凝视，注视
+appliance			器具
+hike				n. 徒步旅行，远足
+manufacture			制造
+judgment			n. 判断，看法
+parade			 	n. 游行；列队表演
+freight				n. 货物；货运
+sacrifice			n. 牺牲，献出；献祭
+occasional 			adj. 偶尔的，不经常的
+cheat	 			v. 欺骗，行骗
+referee				裁判员；仲裁员，调解人
+specifically		adv. 特意，专门地；明确地	
+cradle				n. 摇篮；吊架，吊篮
+punctual			adj. 准时的，守时的
+porcelain			n. 瓷；瓷器	
+pirate				n. 海盗
+franchise			n. 特许经营权
+porcelain			n. 瓷；瓷器
+geology				n. 地质学；地质状况
+cellar				n. 地下室，地窖
+dread				v. 畏惧，担忧；<古>敬畏			
+scrutiny			n. 仔细观察，详细审查
+gleam				v. 发微光，闪烁
+erase				v. 抹去，擦掉	
+misery				n. 痛苦，苦难
+heroic				adj. 英雄的，英勇的
+editorial			adj. 编辑的，主编的；社论的
+gracious			adj. 有礼貌的，和蔼的；豪华舒适的
+adequate			adj. 足够的，适当的，
+fulfill				vt. 履行；实现；满足
+appropriate			adj. 合适的，相称的
+assess				v. 评价，评定；估价
+obligation			义务，责任
+industrialize		工业化
+champagne			n. 香槟酒；香槟酒色
+extravagant			adj. 奢侈的，挥霍的
+frustrate			v. 使懊恼，使沮丧
+estate 				n. 财产，遗产
+tender				嫩的
+orientation			n. 目标，定位；方向
+peculiar			adj. 奇怪的，不寻常的		
