@@ -231,5 +231,52 @@ estate 			n. 财产，遗产
 tender			嫩的
 orientation		n. 目标，定位；方向
 peculiar		adj. 奇怪的，不寻常的		
-apologize
+apologize		v. 道歉，谢罪	
+marvellous		adj. 极好的，绝妙的
 
+rotten 		adj. 腐烂的，发臭的
+intricate 	adj. 错综复杂的；难理解的
+hostess 		n. 女主人，女东道主
+amend 			vt. 修改；改善
+leaflet 	 n. 传单，小册子；小叶
+extinguish		v. 熄灭；消灭，使破灭；
+handicap       n. （生理或智力上的）残障，残疾；障碍，不利因素
+catastrophe		n. 灾难，灾祸；麻烦，困境；惨败
+impetus			n. 动力；促进；冲力；动量
+gradual			adj. 逐渐的，渐进的
+toe     		脚趾
+auditorium		n. 观众席；礼堂，会堂	
+graceful 		adj. 优美的，优雅的；得体的
+loyalty			n. 忠诚；忠心；忠实；
+bull			n. 公牛；雄性大型动物；
+
+tragic   	悲剧的 
+applaud        表示强烈赞同
+valve		n. 阀；
+alienate     使疏远
+perish 		死亡毁灭
+hurl     	v. 猛扔，猛摔；
+carpenter  n. 木匠，木工
+chamber     议会
+ pearl   	 珍珠
+crude 		天然的
+competent  有能力的 胜任的
+circus   	马戏团
+orchard  	果园
+acid		 酸的
+hut   		小屋 棚屋
+futile 	无效的
+culprit 	罪犯
+imperial   帝国的
+specimen  样本  标本  
+ceremony  典礼 仪式
+violet   	紫罗兰
+humble  	谦卑的，恭顺的
+enforce 	强制实行，实施
+strengthen   加强巩固
+accessory   附件，配件，同谋
+denote  	象征，预示，表示
+apparent  明显的  表面上的
+delegate   选派，授权，委派
+economical 节俭的
+dental 牙科的
